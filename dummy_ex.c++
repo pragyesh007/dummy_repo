@@ -6,7 +6,6 @@ int main(){
     b=a-b;
     a=a-b;
     cout<<"value of a is: "<<a<<"and value of b is:"<<b;
-    cout<<"I am test";
     int c;
     return 0; 
 
